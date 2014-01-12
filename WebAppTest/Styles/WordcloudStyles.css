@@ -1,0 +1,4 @@
+﻿#wordcloudcontainer text:hover { opacity: .7 !important; }
+#wordclouddetailscontainer{
+    display:none;
+}
